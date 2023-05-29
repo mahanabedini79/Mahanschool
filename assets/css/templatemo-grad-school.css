@@ -178,11 +178,11 @@ a.menu-link { display: none; }
 .main-header .logo {
     float: left;
     line-height: 80px;
-    padding-left: 60px;
+    padding-left: 35px;
 }
 
 .main-header .logo a {
-    font-size: 36px;
+    font-size: 32px;
     text-transform: uppercase;
     font-weight: 800;
     color: #fff;
